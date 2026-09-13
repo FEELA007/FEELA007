@@ -1,15 +1,20 @@
 <div align="center">
 
-# Karthik Jammula 
+# Karthik
 
 ### Computer Science Student · Software Developer
 
 Building practical software, solving problems, and exploring AI-assisted development.
 
+</div>
+
+---
+
+## About
+
 Computer Science student focused on software development, Data Structures & Algorithms, and building practical applications.
 
 I learn by building projects and experimenting with modern development and AI-assisted tools.
-</div>
 
 ---
 
@@ -107,8 +112,6 @@ Regularly practicing Data Structures & Algorithms through LeetCode.
     <img src="https://img.shields.io/badge/Solutions-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="LeetCode Solutions"/>
   </a>
 </p>
-
-
 ---
 
 ## Connect
