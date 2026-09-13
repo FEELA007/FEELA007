@@ -113,16 +113,6 @@ Regularly practicing Data Structures & Algorithms through LeetCode.
   </a>
 </p>
 
----
-
-## GitHub Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=FEELA007&theme=github-compact&hide_border=true&area=true"
-    alt="GitHub Activity Graph"
-  />
-</p>
 
 ---
 
